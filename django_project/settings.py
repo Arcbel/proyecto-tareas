@@ -82,7 +82,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'arcbell_tarea',
-        'USER': 'arcbell_usertarea',
+        'USER': 'arcbell_usertareas',
         'PASSWORD': '@Passw8rd',
         'HOST': 'postgresql-arcbell.alwaysdata.net',
     }
