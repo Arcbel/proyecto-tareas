@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'django_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'arcbell_tarea',
+        'NAME': 'arcbell_tareas',
         'USER': 'arcbell_usertareas',
         'PASSWORD': '@Passw8rd',
         'HOST': 'postgresql-arcbell.alwaysdata.net',
